@@ -1,0 +1,8 @@
+2024-01-01 INFO  start service
+2024-01-01 ERROR failed login user=alice
+2024-01-02 INFO  user=alice action=view
+2024-01-02 ERROR failed login user=bob
+2024-01-03 WARN  disk 80%
+2024-01-03 INFO  user=carol action=edit
+2024-01-04 ERROR failed login user=alice
+2024-01-04 INFO  user=bob action=view
